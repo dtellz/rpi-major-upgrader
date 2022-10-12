@@ -1,8 +1,8 @@
 # Upgrade RaspberryPi from a major version to another major one
 
-Right now the script is prepared to upgrade from Raspberry Pi OS Buster (32 or 64 bit) to Bullseye.
+Right now the script is writen to upgrade from Raspberry Pi OS Buster (32 or 64 bit) to Bullseye.
 
-Run the script on you RaspberryPi as sudo 
+Run the script on you RaspberryPi as root 
 
 ```
 sudo bash upgradeRaspberryPi
